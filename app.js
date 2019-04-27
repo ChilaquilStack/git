@@ -1,3 +1,9 @@
 "use strict"
 
-console.log('alert');
+const start = () => {
+
+  console.log('start');
+
+}
+
+window.addEventListener('load', start);
