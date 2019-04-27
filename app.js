@@ -2,7 +2,7 @@
 
 const start = () => {
 
-  console.log('start');
+  alert('alert');
 
 }
 
