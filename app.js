@@ -1,5 +1,6 @@
 "use strict"
 
-const start = () => alert('alert');
+const showMessage = (message) => alert(message);
+const start = () => showMessage('Bien Benido');
 
 window.addEventListener('load', start);
