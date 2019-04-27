@@ -1,9 +1,5 @@
 "use strict"
 
-const start = () => {
-
+window.addEventListener('load', function(){
   alert('alert');
-
-}
-
-window.addEventListener('load', start);
+});
