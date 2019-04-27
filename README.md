@@ -1,8 +1,11 @@
-# Inicio
+# Curso de Git
 
-Ejemploe de git
+## Listas
 
 - Lista de numeros
   - uno
   - dos
   - tres
+
+## Codigo
+`const element = item != null ? item ? null`
